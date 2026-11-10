@@ -1,6 +1,6 @@
 # BenAI Token Saving Mods
 
-A pack of Claude Code mods that cut token costs, made by **Ben AI** (YouTube channel: [Ben AI](https://www.youtube.com/@BenAI)).
+A pack of Claude Code mods that cut token costs, made by **Ben AI** (YouTube channel: [Ben AI](https://www.youtube.com/@BenAI92)).
 
 - Video: [Copy These 5 Claude Mods, Never Hit a Token Limit Again](https://www.youtube.com/watch?v=4d6OK7IGdBU)
 - Official page: [Token Saving Mods Pack](https://benai.notion.site/Token-Saving-Mods-Pack-4111124570fe81728d6cc04294a399aa)
